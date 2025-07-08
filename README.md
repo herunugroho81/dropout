@@ -1,0 +1,2 @@
+# dropout
+prediksi dropout
